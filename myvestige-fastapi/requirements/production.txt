@@ -1,0 +1,2 @@
+-r base.txt  # Import common dependencies
+gunicorn==20.1.0  # Production ASGI server
